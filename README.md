@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 my stupid boss Diff.
 creat a new branch dev and switched it.
+branch is fast and useful!
