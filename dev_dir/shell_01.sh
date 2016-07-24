@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is dev branch."
+echo "This is dev branch."
