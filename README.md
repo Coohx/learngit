@@ -1,7 +1,5 @@
-Author：huangxin
-===============
-# Date :2016-07-22
-------------------
+###Author：huangxin
+### Date :2016-07-22
 
 Git is a distributed version control system.
 
